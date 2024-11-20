@@ -115,3 +115,69 @@ Understanding and defining the design properties of a mockup design are critical
 3. **User Experience**: Creates an aesthetically pleasing and intuitive interface, improving user engagement and satisfaction.
 4. **Scalability**: Makes it easier to maintain and extend the design system as the application grows.
 5. **Team Collaboration**: Aligns designers and developers with a shared vision, reducing miscommunication and errors.
+
+## Project Roles and Responsibilities
+
+### 1. Project Manager
+
+- **Responsibilities**:
+  - Plan, monitor, and manage project timelines, budgets, and deliverables.
+  - Facilitate communication among team members and stakeholders.
+  - Address risks and resolve issues that may affect project progress.
+- **Contribution**: Ensures the project is completed on time, within budget, and meets the defined scope.
+
+### 2. Frontend Developers
+
+- **Responsibilities**:
+  - Implement the user interface based on design specifications.
+  - Ensure responsiveness and cross-browser compatibility.
+  - Integrate APIs and manage client-side state.
+- **Contribution**: Create a seamless and visually appealing user experience.
+
+### 3. Backend Developers
+
+- **Responsibilities**:
+  - Develop and maintain server-side logic and database structures.
+  - Build and expose APIs for frontend integration.
+  - Ensure application security and performance.
+- **Contribution**: Enable the functionality and scalability of the application.
+
+### 4. Designers
+
+- **Responsibilities**:
+  - Create wireframes, mockups, and prototypes for the user interface.
+  - Define color schemes, typography, and other visual elements.
+  - Ensure design consistency across the application.
+- **Contribution**: Shape the visual identity and usability of the product.
+
+### 5. QA/Testers
+
+- **Responsibilities**:
+  - Test the application for bugs, usability issues, and performance bottlenecks.
+  - Create and execute test cases and scenarios.
+  - Ensure that all features meet quality standards before release.
+- **Contribution**: Maintain the reliability and quality of the application.
+
+### 6. DevOps Engineers
+
+- **Responsibilities**:
+  - Set up and maintain CI/CD pipelines for automated deployment.
+  - Monitor application performance and infrastructure.
+  - Manage scalability and system uptime.
+- **Contribution**: Ensure smooth and efficient delivery of the application.
+
+### 7. Product Owner
+
+- **Responsibilities**:
+  - Define and prioritize the product backlog.
+  - Act as a bridge between stakeholders and the development team.
+  - Ensure the product aligns with business goals and user needs.
+- **Contribution**: Provide clear guidance on project direction and goals.
+
+### 8. Scrum Master
+
+- **Responsibilities**:
+  - Facilitate Agile ceremonies (e.g., sprint planning, stand-ups, retrospectives).
+  - Remove roadblocks hindering the team’s progress.
+  - Promote Agile principles and practices within the team.
+- **Contribution**: Enhance team collaboration and productivity.
